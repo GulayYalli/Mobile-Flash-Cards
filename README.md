@@ -1,6 +1,7 @@
 # Mobile Flash Cards React Native Project
 
 Udacity React Nanodegree Project: Mobile Flashcards
+The project is a mobile app developed with React Native.
 # Prerequisites && Installing
 
 Navigate to the directory where you want to store the app.
@@ -23,6 +24,12 @@ Create an unlimited number of decks
 Add an unlimited amount of flash cards to each deck
 Quiz yourself using any deck
 Get notified if you didn't learn yet that day
+
+# Testing
+This project has been tested on the following platforms:
+
+iOS 14+
+Android 8+.
 
 # Authors
 Gülay Leblebici
